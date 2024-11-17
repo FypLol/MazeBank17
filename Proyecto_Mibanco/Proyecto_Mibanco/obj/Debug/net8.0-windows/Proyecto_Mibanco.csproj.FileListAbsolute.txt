@@ -1,0 +1,67 @@
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.exe
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.deps.json
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.runtimeconfig.json
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.dll
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Form1.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.GenerateResource.cache
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfoInputs.cache
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfo.cs
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.CoreCompileInputs.cache
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.dll
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\refint\Proyecto_Mibanco.dll
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.genruntimeconfig.cache
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\ref\Proyecto_Mibanco.dll
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Properties.Resources.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioPantalla.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.RetirarContenido.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.DepositoContenido.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioContenido.resources
+E:\Ciclo 2\Fundamentos Algortimos\Examen T2 FA\Proyecto t2\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.FormPConvertidor.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.exe
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.deps.json
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.runtimeconfig.json
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.dll
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.DepositoContenido.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Form1.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.FormPConvertidor.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioContenido.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioPantalla.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Properties.Resources.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.RetirarContenido.resources
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.GenerateResource.cache
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfoInputs.cache
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfo.cs
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.CoreCompileInputs.cache
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.dll
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\refint\Proyecto_Mibanco.dll
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.genruntimeconfig.cache
+C:\Users\thehe\Downloads\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\ref\Proyecto_Mibanco.dll
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.exe
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.deps.json
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.runtimeconfig.json
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.dll
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\bin\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.DepositoContenido.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Form1.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.FormPConvertidor.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioContenido.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.InicioPantalla.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.Properties.Resources.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.RetirarContenido.resources
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.GenerateResource.cache
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfoInputs.cache
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.AssemblyInfo.cs
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.csproj.CoreCompileInputs.cache
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.sourcelink.json
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.dll
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\refint\Proyecto_Mibanco.dll
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.pdb
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\Proyecto_Mibanco.genruntimeconfig.cache
+C:\Users\Joseth\Source\Repos\T2mazeBANK\Proyecto_Mibanco\Proyecto_Mibanco\obj\Debug\net8.0-windows\ref\Proyecto_Mibanco.dll
