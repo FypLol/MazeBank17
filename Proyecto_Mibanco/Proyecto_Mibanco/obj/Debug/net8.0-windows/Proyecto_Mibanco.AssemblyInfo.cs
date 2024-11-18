@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto_Mibanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e9b7fa61087186af1dd5af53ef2a2f5853e5be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0011c257f2936d035c43b02c6b9033a91500834d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto_Mibanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto_Mibanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joseth\\source\\repos\\T2mazeBANK\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj": {}
+    "E:\\Ciclo 2\\Fundamentos Algortimos\\EF\\Aplicacion Maze Bank\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joseth\\source\\repos\\T2mazeBANK\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj": {
+    "E:\\Ciclo 2\\Fundamentos Algortimos\\EF\\Aplicacion Maze Bank\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joseth\\source\\repos\\T2mazeBANK\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj",
+        "projectUniqueName": "E:\\Ciclo 2\\Fundamentos Algortimos\\EF\\Aplicacion Maze Bank\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj",
         "projectName": "Proyecto_Mibanco",
-        "projectPath": "C:\\Users\\Joseth\\source\\repos\\T2mazeBANK\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj",
+        "projectPath": "E:\\Ciclo 2\\Fundamentos Algortimos\\EF\\Aplicacion Maze Bank\\Proyecto_Mibanco\\Proyecto_Mibanco\\Proyecto_Mibanco.csproj",
         "packagesPath": "C:\\Users\\Joseth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joseth\\Source\\Repos\\T2mazeBANK\\Proyecto_Mibanco\\Proyecto_Mibanco\\obj\\",
+        "outputPath": "E:\\Ciclo 2\\Fundamentos Algortimos\\EF\\Aplicacion Maze Bank\\Proyecto_Mibanco\\Proyecto_Mibanco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joseth\\AppData\\Roaming\\NuGet\\NuGet.Config",
